@@ -12,12 +12,12 @@ The dashboards included in this repository are designed to demonstrate:
 ## Dashboards
 
 ### 1. Chase Value Center Sales Report
-- **Description**: Brief explanation of the purpose and insights provided by this dashboard.
+- **Description**: This dashboard provides an overview of key sales metrics, allowing users to track performance, monitor sales trends, and filter data for deeper insights. It features interactive slicers for dynamic filtering, including time periods, regions, and product categories. The dashboard is designed to give a comprehensive view of sales performance, enabling businesses to make data-driven decisions.
 - **Key Features**:
-  - Feature 1
-  - Feature 2
-  - Feature 3
-- **Screenshot**: ![Dashboard Name 1](path/to/screenshot1.png)
+  - KPIs: Displays essential sales KPIs such as total sales, sales growth, average order value, and conversion rate.
+  - Slicers: Interactive slicers to filter the data by time periods (monthly), payment type, gender, and product categories for more targeted insights.
+  - Sales Trends: Visual representation of sales trends over time with line charts, allowing users to track performance fluctuations and identify patterns.
+- **Screenshot**: ![Screenshot 2024-12-10 145107](https://github.com/user-attachments/assets/f257c3a1-f172-4e85-bcc3-53cb36fd2f3e)
 
 ### 2. [Dashboard Name 2]
 - **Description**: Brief explanation of the purpose and insights provided by this dashboard.
