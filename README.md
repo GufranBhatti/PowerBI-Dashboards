@@ -5,7 +5,7 @@ Welcome to my Power BI Dashboards repository! This repository showcases a collec
 ## Overview
 
 The dashboards included in this repository are designed to demonstrate:
-- Proficiency in Power BI desktop and service.
+- Proficiency in Power BI desktop.
 - Use of data modeling techniques, DAX (Data Analysis Expressions), and advanced visualizations.
 - Practical application of analytical skills to generate insights from data.
 
@@ -33,6 +33,6 @@ The dashboards included in this repository are designed to demonstrate:
 
 ```plaintext
 .
-├── Dashboards/          # Power BI (.pbix) files
 ├── Assets/              # Screenshots and related assets
+├── /                    # Power BI (.pbix) files
 ├── README.md            # Documentation
