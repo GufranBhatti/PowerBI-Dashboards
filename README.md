@@ -11,7 +11,7 @@ The dashboards included in this repository are designed to demonstrate:
 
 ## Dashboards
 
-### 1. [Dashboard Name 1]
+### 1. [Chase Value Center Sales Report]
 - **Description**: Brief explanation of the purpose and insights provided by this dashboard.
 - **Key Features**:
   - Feature 1
@@ -34,5 +34,5 @@ The dashboards included in this repository are designed to demonstrate:
 ```plaintext
 .
 ├── Assets/              # Screenshots and related assets
-├── /                    # Power BI (.pbix) files
+├── "xyz".pbix           # Power BI (.pbix) files
 ├── README.md            # Documentation
