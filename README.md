@@ -37,7 +37,7 @@ The dashboards included in this repository are designed to demonstrate:
 ├── "xyz".pbix           # Power BI (.pbix) files
 ├── README.md            # Documentation
 
--## Purpose
+- ## Purpose
 
 This repository serves as a portfolio of my work in Power BI, showcasing various aspects of my learning and application, including:
 - Exploring datasets from various domains.
